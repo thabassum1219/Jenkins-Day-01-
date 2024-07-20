@@ -20,4 +20,4 @@ sonar.junit.reportsPath=target/surefire-reports
 sonar.jacoco.reportPath=target/jacoco.exec
 sonar.java.binaries=src/com/room/sample
 ```
-..
+...
